@@ -1,7 +1,7 @@
 # dotnet_template_studio_for_wpf_example1
 
 ## 概要
-Visual Studio の拡張機能である Template Studio を用いて、生成されたソースから、何のライブラリをどのように利用しているのかを学ぶ。  
+Visual Studio の拡張機能である Template Studio を用いて、生成されたソースから何のライブラリをどのように利用しているのかを学ぶ。  
 
 Template Stuido  
 https://github.com/microsoft/TemplateStudio  
